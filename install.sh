@@ -1,4 +1,4 @@
-git clone https://github.com/rifqikhanif/maslent
+git clone https://github.com/6mail/maslent
 cd maslent
 npm install ffmpeg
 npm install imagemagick
